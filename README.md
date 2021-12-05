@@ -8,4 +8,4 @@ Module 1: Supervised Learning.
 
 Module 2: Unsupervised Learning.
 
-Module 3: Deep Neural Networks. 
+
