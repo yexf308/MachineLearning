@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.18)  26 NOV 2021 17:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.18)  13 JAN 2022 21:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -238,13 +238,13 @@ Here is how much of TeX's memory you used:
  19570 multiletter control sequences out of 15000+600000
  404073 words of font info for 29 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,6n,74p,654b,148s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,6n,74p,654b,150s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dv
 ips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/p
 ublic/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/pu
 blic/amsfonts/cm/cmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/publ
 ic/cm-super/sfrm1000.pfb>
-Output written on syllabus_spring22.pdf (2 pages, 52765 bytes).
+Output written on syllabus_spring22.pdf (2 pages, 52879 bytes).
 PDF statistics:
  24 PDF objects out of 1000 (max. 8388607)
  16 compressed objects within 1 object stream
