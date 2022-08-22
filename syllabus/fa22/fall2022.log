@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.18)  15 AUG 2022 14:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.18)  21 AUG 2022 23:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -226,25 +226,29 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 52.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 52.
-[1
+(/usr/local/texlive/2021/texmf-dist/tex/latex/ucs/data/uni-32.def
+File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
+) [1
 
-{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
 (./fall2022.aux) ) 
 Here is how much of TeX's memory you used:
- 2064 strings out of 478994
- 32610 string characters out of 5858184
- 348206 words of memory out of 5000000
- 19568 multiletter control sequences out of 15000+600000
- 403738 words of font info for 28 fonts, out of 8000000 for 9000
+ 2318 strings out of 478994
+ 35534 string characters out of 5858184
+ 351206 words of memory out of 5000000
+ 19818 multiletter control sequences out of 15000+600000
+ 404073 words of font info for 29 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,6n,74p,645b,112s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmbx10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmr10.pfb>
-Output written on fall2022.pdf (1 page, 44308 bytes).
+ 68i,6n,74p,645b,264s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/
+cm-super-ts1.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmbx10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/s
+frm1000.pfb>
+Output written on fall2022.pdf (2 pages, 52084 bytes).
 PDF statistics:
- 16 PDF objects out of 1000 (max. 8388607)
- 10 compressed objects within 1 object stream
+ 24 PDF objects out of 1000 (max. 8388607)
+ 16 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
