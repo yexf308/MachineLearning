@@ -1,4 +1,4 @@
-# MAT592
+# MachineLearning
 
 This is jupyter notebook for AMAT592 Machine Learning Course at SUNY Albany. 
 
